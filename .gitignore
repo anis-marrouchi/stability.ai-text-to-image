@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating system generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#prompt-form {
+    margin: 20px auto;
+    width: 300px;
+}
+
+#result {
+    margin-top: 20px;
+}
